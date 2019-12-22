@@ -1,0 +1,11 @@
+C:\Users\nicol\source\repos\Clase07\bin\Debug\Clase07.exe.config
+C:\Users\nicol\source\repos\Clase07\bin\Debug\Clase07.exe
+C:\Users\nicol\source\repos\Clase07\bin\Debug\Clase07.pdb
+C:\Users\nicol\source\repos\Clase07\bin\Debug\Clase07.xml
+C:\Users\nicol\source\repos\Clase07\obj\Debug\Clase07.vbprojAssemblyReference.cache
+C:\Users\nicol\source\repos\Clase07\obj\Debug\Clase07.Form1.resources
+C:\Users\nicol\source\repos\Clase07\obj\Debug\Clase07.Resources.resources
+C:\Users\nicol\source\repos\Clase07\obj\Debug\Clase07.vbproj.GenerateResource.cache
+C:\Users\nicol\source\repos\Clase07\obj\Debug\Clase07.exe
+C:\Users\nicol\source\repos\Clase07\obj\Debug\Clase07.xml
+C:\Users\nicol\source\repos\Clase07\obj\Debug\Clase07.pdb
